@@ -79,12 +79,12 @@
     <dependency> <!-- Jetty demmo -->
       <groupId>org.eclipse.jetty</groupId>
       <artifactId>jetty-client</artifactId>
-      <version>8.1.14.v20131031</version>
+      <version>9.3.24.v20180605</version>
     </dependency>
     <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-databind</artifactId>
-      <version>2.3.3</version>
+      <version>2.9.9.1</version>
     </dependency>
     <dependency>
       <groupId>org.apache.commons</groupId>
